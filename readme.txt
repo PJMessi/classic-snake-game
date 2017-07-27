@@ -1,0 +1,1 @@
+you'll need python installed on your computer along with pygame to run this software
